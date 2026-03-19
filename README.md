@@ -25,9 +25,6 @@ Built a Windows Server Active Directory environment in a virtual lab to simulate
 ---
 
 ##  Screenshots
-(See screenshots folder)
-
----
 
 ##  Setup Guide
 See setup-guide.md for step-by-step instructions
