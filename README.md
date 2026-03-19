@@ -1,11 +1,11 @@
-# 🖥️ Active Directory Home Lab
+#  Active Directory Home Lab
 
-## 📌 Project Overview
+##  Project Overview
 Built a Windows Server Active Directory environment in a virtual lab to simulate real-world IT support tasks.
 
 ---
 
-## 🔧 What I Did
+##  What I Did
 - Installed Windows Server
 - Promoted server to Domain Controller
 - Created users, groups, and organizational units (OUs)
@@ -15,7 +15,7 @@ Built a Windows Server Active Directory environment in a virtual lab to simulate
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Active Directory Administration  
 - Windows Server  
 - User & Group Management  
@@ -24,10 +24,10 @@ Built a Windows Server Active Directory environment in a virtual lab to simulate
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 (See screenshots folder)
 
 ---
 
-## 📘 Setup Guide
+##  Setup Guide
 See setup-guide.md for step-by-step instructions
